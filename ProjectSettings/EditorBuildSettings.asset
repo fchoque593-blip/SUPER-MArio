@@ -8,4 +8,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1-1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1-2.unity
+    guid: d26f44fb2911a874795c4624537dc586
+  - enabled: 1
+    path: Assets/Scenes/1-3.unity
+    guid: 30d4c667b5a614648a5bc0a275663d9e
+  - enabled: 1
+    path: Assets/Scenes/1-4.unity
+    guid: d58b40eda41633246a82a73cb07b7ff8
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 39c72927ad640da4795aa59bab8d23ef
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,461 @@
+﻿INVENTARIO DEL PROYECTO SUPER MARIO
+====================================
+
+========== PREFABS ==========
+Assets/Prefabs/1upMushroom.prefab
+Assets/Prefabs/BlockCoin.prefab
+Assets/Prefabs/Brick.prefab
+Assets/Prefabs/Bush1.prefab
+Assets/Prefabs/Bush2.prefab
+Assets/Prefabs/Bush3.prefab
+Assets/Prefabs/Castle.prefab
+Assets/Prefabs/Cloud1.prefab
+Assets/Prefabs/Cloud2.prefab
+Assets/Prefabs/Cloud3.prefab
+Assets/Prefabs/Coin.prefab
+Assets/Prefabs/EmptyBlock.prefab
+Assets/Prefabs/Flag Pole.prefab
+Assets/Prefabs/Goomba.prefab
+Assets/Prefabs/Ground.prefab
+Assets/Prefabs/HardBlock.prefab
+Assets/Prefabs/Hill1.prefab
+Assets/Prefabs/Hill2.prefab
+Assets/Prefabs/Koopa.prefab
+Assets/Prefabs/MagicMushroom.prefab
+Assets/Prefabs/Mario.prefab
+Assets/Prefabs/MysteryBlock.prefab
+Assets/Prefabs/Pipe.prefab
+Assets/Prefabs/PipeConnection.prefab
+Assets/Prefabs/Starman.prefab
+Assets/Prefabs/UndergroundBlock.prefab
+Assets/Prefabs/UndergroundBrick.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+
+========== SPRITES ==========
+Assets/Sprites/1upMushroom.png
+Assets/Sprites/Brick.png
+Assets/Sprites/Bush1.png
+Assets/Sprites/Bush2.png
+Assets/Sprites/Bush3.png
+Assets/Sprites/Castle.png
+Assets/Sprites/Cloud1.png
+Assets/Sprites/Cloud2.png
+Assets/Sprites/Cloud3.png
+Assets/Sprites/Coin.png
+Assets/Sprites/Coin_Underground.png
+Assets/Sprites/EmptyBlock.png
+Assets/Sprites/Flag.png
+Assets/Sprites/FlagPole.png
+Assets/Sprites/Goomba_Flat.png
+Assets/Sprites/Goomba_Walk1.png
+Assets/Sprites/Goomba_Walk2.png
+Assets/Sprites/GroundBlock.png
+Assets/Sprites/HardBlock.png
+Assets/Sprites/Hill1.png
+Assets/Sprites/Hill2.png
+Assets/Sprites/Koopa_Shell.png
+Assets/Sprites/Koopa_Walk1.png
+Assets/Sprites/Koopa_Walk2.png
+Assets/Sprites/MagicMushroom.png
+Assets/Sprites/Mario_Big_Idle.png
+Assets/Sprites/Mario_Big_Jump.png
+Assets/Sprites/Mario_Big_Run1.png
+Assets/Sprites/Mario_Big_Run2.png
+Assets/Sprites/Mario_Big_Run3.png
+Assets/Sprites/Mario_Big_Slide.png
+Assets/Sprites/Mario_Small_Death.png
+Assets/Sprites/Mario_Small_Idle.png
+Assets/Sprites/Mario_Small_Jump.png
+Assets/Sprites/Mario_Small_Run1.png
+Assets/Sprites/Mario_Small_Run2.png
+Assets/Sprites/Mario_Small_Run3.png
+Assets/Sprites/Mario_Small_Slide.png
+Assets/Sprites/MysteryBlock.png
+Assets/Sprites/PipeBottom.png
+Assets/Sprites/PipeConnection.png
+Assets/Sprites/PipeTop.png
+Assets/Sprites/Sprites/1upMushroom.png
+Assets/Sprites/Sprites/Brick.png
+Assets/Sprites/Sprites/Bush1.png
+Assets/Sprites/Sprites/Bush2.png
+Assets/Sprites/Sprites/Bush3.png
+Assets/Sprites/Sprites/Castle.png
+Assets/Sprites/Sprites/Cloud1.png
+Assets/Sprites/Sprites/Cloud2.png
+Assets/Sprites/Sprites/Cloud3.png
+Assets/Sprites/Sprites/Coin.png
+Assets/Sprites/Sprites/Coin_Underground.png
+Assets/Sprites/Sprites/EmptyBlock.png
+Assets/Sprites/Sprites/Flag.png
+Assets/Sprites/Sprites/FlagPole.png
+Assets/Sprites/Sprites/Goomba_Flat.png
+Assets/Sprites/Sprites/Goomba_Walk1.png
+Assets/Sprites/Sprites/Goomba_Walk2.png
+Assets/Sprites/Sprites/GroundBlock.png
+Assets/Sprites/Sprites/HardBlock.png
+Assets/Sprites/Sprites/Hill1.png
+Assets/Sprites/Sprites/Hill2.png
+Assets/Sprites/Sprites/Koopa_Shell.png
+Assets/Sprites/Sprites/Koopa_Walk1.png
+Assets/Sprites/Sprites/Koopa_Walk2.png
+Assets/Sprites/Sprites/MagicMushroom.png
+Assets/Sprites/Sprites/Mario_Big_Idle.png
+Assets/Sprites/Sprites/Mario_Big_Jump.png
+Assets/Sprites/Sprites/Mario_Big_Run1.png
+Assets/Sprites/Sprites/Mario_Big_Run2.png
+Assets/Sprites/Sprites/Mario_Big_Run3.png
+Assets/Sprites/Sprites/Mario_Big_Slide.png
+Assets/Sprites/Sprites/Mario_Small_Death.png
+Assets/Sprites/Sprites/Mario_Small_Idle.png
+Assets/Sprites/Sprites/Mario_Small_Jump.png
+Assets/Sprites/Sprites/Mario_Small_Run1.png
+Assets/Sprites/Sprites/Mario_Small_Run2.png
+Assets/Sprites/Sprites/Mario_Small_Run3.png
+Assets/Sprites/Sprites/Mario_Small_Slide.png
+Assets/Sprites/Sprites/MysteryBlock.png
+Assets/Sprites/Sprites/PipeBottom.png
+Assets/Sprites/Sprites/PipeConnection.png
+Assets/Sprites/Sprites/PipeTop.png
+Assets/Sprites/Sprites/Starman.png
+Assets/Sprites/Sprites/UndergroundBlock.png
+Assets/Sprites/Sprites/UndergroundBrick.png
+Assets/Sprites/Starman.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_3.png
+Assets/Sprites/UndergroundBlock.png
+Assets/Sprites/UndergroundBrick.png
+
+========== TEXTURAS ==========
+Assets/Sprites/1upMushroom.png
+Assets/Sprites/Brick.png
+Assets/Sprites/Bush1.png
+Assets/Sprites/Bush2.png
+Assets/Sprites/Bush3.png
+Assets/Sprites/Castle.png
+Assets/Sprites/Cloud1.png
+Assets/Sprites/Cloud2.png
+Assets/Sprites/Cloud3.png
+Assets/Sprites/Coin.png
+Assets/Sprites/Coin_Underground.png
+Assets/Sprites/EmptyBlock.png
+Assets/Sprites/Flag.png
+Assets/Sprites/FlagPole.png
+Assets/Sprites/Goomba_Flat.png
+Assets/Sprites/Goomba_Walk1.png
+Assets/Sprites/Goomba_Walk2.png
+Assets/Sprites/GroundBlock.png
+Assets/Sprites/HardBlock.png
+Assets/Sprites/Hill1.png
+Assets/Sprites/Hill2.png
+Assets/Sprites/Koopa_Shell.png
+Assets/Sprites/Koopa_Walk1.png
+Assets/Sprites/Koopa_Walk2.png
+Assets/Sprites/MagicMushroom.png
+Assets/Sprites/Mario_Big_Idle.png
+Assets/Sprites/Mario_Big_Jump.png
+Assets/Sprites/Mario_Big_Run1.png
+Assets/Sprites/Mario_Big_Run2.png
+Assets/Sprites/Mario_Big_Run3.png
+Assets/Sprites/Mario_Big_Slide.png
+Assets/Sprites/Mario_Small_Death.png
+Assets/Sprites/Mario_Small_Idle.png
+Assets/Sprites/Mario_Small_Jump.png
+Assets/Sprites/Mario_Small_Run1.png
+Assets/Sprites/Mario_Small_Run2.png
+Assets/Sprites/Mario_Small_Run3.png
+Assets/Sprites/Mario_Small_Slide.png
+Assets/Sprites/MysteryBlock.png
+Assets/Sprites/PipeBottom.png
+Assets/Sprites/PipeConnection.png
+Assets/Sprites/PipeTop.png
+Assets/Sprites/Sprites/1upMushroom.png
+Assets/Sprites/Sprites/Brick.png
+Assets/Sprites/Sprites/Bush1.png
+Assets/Sprites/Sprites/Bush2.png
+Assets/Sprites/Sprites/Bush3.png
+Assets/Sprites/Sprites/Castle.png
+Assets/Sprites/Sprites/Cloud1.png
+Assets/Sprites/Sprites/Cloud2.png
+Assets/Sprites/Sprites/Cloud3.png
+Assets/Sprites/Sprites/Coin.png
+Assets/Sprites/Sprites/Coin_Underground.png
+Assets/Sprites/Sprites/EmptyBlock.png
+Assets/Sprites/Sprites/Flag.png
+Assets/Sprites/Sprites/FlagPole.png
+Assets/Sprites/Sprites/Goomba_Flat.png
+Assets/Sprites/Sprites/Goomba_Walk1.png
+Assets/Sprites/Sprites/Goomba_Walk2.png
+Assets/Sprites/Sprites/GroundBlock.png
+Assets/Sprites/Sprites/HardBlock.png
+Assets/Sprites/Sprites/Hill1.png
+Assets/Sprites/Sprites/Hill2.png
+Assets/Sprites/Sprites/Koopa_Shell.png
+Assets/Sprites/Sprites/Koopa_Walk1.png
+Assets/Sprites/Sprites/Koopa_Walk2.png
+Assets/Sprites/Sprites/MagicMushroom.png
+Assets/Sprites/Sprites/Mario_Big_Idle.png
+Assets/Sprites/Sprites/Mario_Big_Jump.png
+Assets/Sprites/Sprites/Mario_Big_Run1.png
+Assets/Sprites/Sprites/Mario_Big_Run2.png
+Assets/Sprites/Sprites/Mario_Big_Run3.png
+Assets/Sprites/Sprites/Mario_Big_Slide.png
+Assets/Sprites/Sprites/Mario_Small_Death.png
+Assets/Sprites/Sprites/Mario_Small_Idle.png
+Assets/Sprites/Sprites/Mario_Small_Jump.png
+Assets/Sprites/Sprites/Mario_Small_Run1.png
+Assets/Sprites/Sprites/Mario_Small_Run2.png
+Assets/Sprites/Sprites/Mario_Small_Run3.png
+Assets/Sprites/Sprites/Mario_Small_Slide.png
+Assets/Sprites/Sprites/MysteryBlock.png
+Assets/Sprites/Sprites/PipeBottom.png
+Assets/Sprites/Sprites/PipeConnection.png
+Assets/Sprites/Sprites/PipeTop.png
+Assets/Sprites/Sprites/Starman.png
+Assets/Sprites/Sprites/UndergroundBlock.png
+Assets/Sprites/Sprites/UndergroundBrick.png
+Assets/Sprites/Starman.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/BLANK_BOND_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/CONTINUE_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/EXIT_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/LOAD_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/OPTIONS_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/PLAY_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_1.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_2.png
+Assets/Sprites/Texto/BOTTOMS_BOLD/SAVE_BOTTOM_BOLD_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/BLANK_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/CONTINUE_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/EXIT_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/LOAD_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/OPTIONS_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/PLAY_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_1.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_2.png
+Assets/Sprites/Texto/BOTTOMS_MISTERY/SAVE_BOTTOM_MISTERY_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/BLANK_BOTTOM_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/CONTINUE_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/EXIT_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/LOAD_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/OPTIONS_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/PLAY_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_1.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_2.png
+Assets/Sprites/Texto/BOTTOMS_PIXEL/SAVE_BOTTOM_PIXEL_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/BLANK_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/CONTINUE_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/EXIT_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/LOAD_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/OPTIONS_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/PLAY_BOTTOM_REGU_3.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_1.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_2.png
+Assets/Sprites/Texto/BOTTOMS_REGU/SAVE_BOTTOM_REGU_3.png
+Assets/Sprites/UndergroundBlock.png
+Assets/Sprites/UndergroundBrick.png
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Sprites/EmojiOne.png
+
+========== TILES ==========
+
+========== ESCENAS ==========
+Assets/Scenes/1-1.unity
+Assets/Scenes/1-2.unity
+Assets/Scenes/1-3.unity
+Assets/Scenes/1-4.unity
+Assets/Scenes/GameOver.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example URP.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/27 - Double Pass Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity

@@ -1,46 +1,80 @@
+
 using UnityEngine;
 
 public class PowerUp : MonoBehaviour
 {
-    public enum Type
-    {
-        Coin,
-        ExtraLife,
-        MagicMushroom,
-        Starpower,
-    }
+    [Header("Tipo de objeto")]
+    public bool moneda;
+    public bool vidaExtra;
+    public bool estrella;
+    public bool champinon;
 
-    public Type type;
+    [Header("Configuración")]
+    public int valorMoneda = 1;
+
+    private bool recogido;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) {
-            Collect(other.gameObject);
-        }
+        if (recogido)
+            return;
+
+        // Solo recoger el objeto si entra Mario.
+        if (!other.CompareTag("Player"))
+            return;
+
+        Collect(other.gameObject);
     }
 
-    private void Collect(GameObject player)
+    public void Collect(GameObject player)
     {
-        switch (type)
+        if (recogido || player == null)
+            return;
+
+        recogido = true;
+
+        // Buscar el GameManager sin asumir que existe.
+        GameManager manager = GameManager.Instance;
+
+        if (moneda)
         {
-            case Type.Coin:
-                GameManager.Instance.AddCoin();
-                break;
+            if (manager != null)
+            {
+                for (int i = 0; i < valorMoneda; i++)
+                    manager.AddCoin();
+            }
 
-            case Type.ExtraLife:
-                GameManager.Instance.AddLife();
-                break;
-
-            case Type.MagicMushroom:
-                player.GetComponent<Player>().Grow();
-                break;
-
-            case Type.Starpower:
-                player.GetComponent<Player>().Starpower();
-                break;
+            Destroy(gameObject);
+            return;
         }
 
-        Destroy(gameObject);
-    }
+        if (vidaExtra)
+        {
+            if (manager != null)
+                manager.AddLife();
 
+            Destroy(gameObject);
+            return;
+        }
+
+        if (estrella)
+        {
+            // El efecto de estrella depende de las mecánicas
+            // que tenga implementadas tu proyecto.
+            Destroy(gameObject);
+            return;
+        }
+
+        if (champinon)
+        {
+            // El crecimiento de Mario depende de los scripts
+            // originales del jugador.
+            Destroy(gameObject);
+            return;
+        }
+
+        // Si el prefab no tiene tipo asignado, no provocar
+        // una excepción ni destruirlo accidentalmente.
+        recogido = false;
+    }
 }
